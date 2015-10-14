@@ -4,7 +4,7 @@ gitShare is a small but efficient Chrome extension, that allows to share any git
 It will probably never be on the Chrome Store, just [because*](#help). 
 
 ### Install
-- Clone this repo
+- Clone this repo or grab the last (https://github.com/LukyVj/gitShare/releases/tag/1)[release]
 - Go to `chrome://extensions/`
 - If it's not already done, check the checkbox "Developer mode"
 - Click on "Load unpacked extension"
@@ -20,7 +20,7 @@ Now just browse github, and each time you'll be in a github repository, you will
 ### Example 
 ![](http://puu.sh/kJTRp/0b89ba6cd8.png)
 
-
+--- 
 
 ### Help
 \* Because I don't want to have to design an icon for it, neither all the requirements asked by google. So I will just leave this here. 

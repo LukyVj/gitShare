@@ -14,6 +14,7 @@ It will probably never be on the Chrome Store, just because.
 
 ### Now what ? 
 Now just browse github, and each time you'll be in a github repository, you will see this new "Share" button !
+
 ( here is the share button : ![](http://puu.sh/kJU7y/dd90b86206.png) )
 
 ### Example 

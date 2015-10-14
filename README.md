@@ -23,4 +23,4 @@ Now just browse github, and each time you'll be in a github repository, you will
 --- 
 
 ### Help
-\* Because I don't want to have to design an icon for it, neither all the requirements asked by google. So I will just leave this here. 
+Because I don't want to have to design an icon for it, neither all the requirements asked by google. So I will just leave this here. 

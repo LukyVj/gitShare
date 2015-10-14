@@ -4,7 +4,7 @@ gitShare is a small but efficient Chrome extension, that allows to share any git
 It will probably never be on the Chrome Store, just [because*](#help). 
 
 ### Install
-- Clone this repo or grab the last (https://github.com/LukyVj/gitShare/releases/tag/1)[release]
+- Clone this repo or grab the last [https://github.com/LukyVj/gitShare/releases/](release)
 - Go to `chrome://extensions/`
 - If it's not already done, check the checkbox "Developer mode"
 - Click on "Load unpacked extension"

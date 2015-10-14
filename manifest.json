@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Github share",
+  "description": "This extension adds a small Twitter share button on top of the github repo you're currently looking at.",
+  "version": "1.0",
+
+    "permissions": ["tabs", "*://*.github.com/*"],
+    "content_scripts": [
+    {
+      "matches": ["*://*.github.com/*"],
+      "js": ["share.js"]
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 # gitShare
 
 gitShare is a small but efficient Chrome extension, that allows to share any github project directly on Twitter.
-It will probably never be on the Chrome Store, just [#help](because*). 
+It will probably never be on the Chrome Store, just [because*](#help). 
 
 ### Install
 - Clone this repo

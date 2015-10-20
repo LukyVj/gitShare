@@ -20,6 +20,9 @@ Now just browse github, and each time you'll be in a github repository, you will
 ## Example 
 ![](http://puu.sh/kJVwg/3d98c05e89.png)
 
+## How to actually share ? 
+I did a video to show you how it works : 
+![](http://puu.sh/kRfml/e0a8f774ea.gif)
 --- 
 
 ## Help

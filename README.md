@@ -1,4 +1,8 @@
 # gitShare
+![](http://puu.sh/kZz8M/537151bb8e.png)
+
+---
+
 [![](https://img.shields.io/badge/version-1.3-55ACEE.svg)](https://github.com/LukyVj/gitShare/releases/tag/1.3)
 
 gitShare is a small but efficient Chrome extension, that allows to share any github project directly on Twitter.
@@ -29,6 +33,9 @@ I did a video to show you how it works :
 This extenstion exists because : __Sharing is caring__.
 
 And as web-people, we should support projects that we do like / use.
+
+## Credits
+Original [octopus icon](https://thenounproject.com/search/?q=octopus&i=901) by [Carol Costa](https://thenounproject.com/carol/), from the Noun Project.
 
 ---
 

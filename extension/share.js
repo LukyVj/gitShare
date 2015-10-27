@@ -31,6 +31,5 @@ document.getElementById('fbLink').addEventListener('click', function(){
               "&redirect_uri=https://www.facebook.com";
   window.open(url);
 })
-
 b.appendChild(initSdk)
 

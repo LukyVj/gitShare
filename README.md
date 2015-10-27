@@ -24,6 +24,12 @@ here is the share button : ![](http://puu.sh/kZshn/783d646bd9.png)
 ## How to actually share ?
 I did a video to show you how it works :
 ![](http://puu.sh/kZsyi/132fd6506d.gif)
+
+## Final words
+This extenstion exists because : __Sharing is caring__.
+
+And as web-people, we should support projects that we do like / use.
+
 ---
 
 ## Help

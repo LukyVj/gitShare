@@ -8,7 +8,7 @@
 gitShare is a small but efficient Chrome extension, that allows to share any github project directly on Twitter or Facebook.
 
 ## Install
-- Clone this repo or grab the last [release](https://github.com/LukyVj/gitShare/releases/tag/1.4) ( make sure to download the `.crx`)
+- Clone this repo or grab the last [release](https://github.com/LukyVj/gitShare/releases/tag/1.4)
 - Go to `chrome://extensions/`
 - If it's not already done, check the checkbox "Developer mode"
 - Click on "Load unpacked extension"
@@ -50,3 +50,4 @@ You can find different versions of the logo on the `assets/` folder.
 
 ## Credits
 Original [octopus icon](https://thenounproject.com/search/?q=octopus&i=901) by [Carol Costa](https://thenounproject.com/carol/), from the Noun Project.
+

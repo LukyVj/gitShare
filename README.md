@@ -1,5 +1,5 @@
 # gitShare
-![](http://puu.sh/kZz8M/537151bb8e.png)
+<p class="center"><img src="http://puu.sh/kZz8M/537151bb8e.png"></p>
 
 ---
 

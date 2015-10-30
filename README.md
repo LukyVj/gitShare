@@ -1,5 +1,6 @@
-# gitShare
-<p class="center"><img src="http://puu.sh/kZz8M/537151bb8e.png"></p>
+
+<h1 align="center">gitShare</h1>
+<p align="center"><img src="http://puu.sh/kZz8M/537151bb8e.png"  /></p>
 
 ---
 
